@@ -9,7 +9,7 @@ Dr. Yuan Luo and Dr. Hongfang Liu
 ### Date and Location
 3/16/2023 Seattle
 ### Link
-[Slides](slides/AMIA2023_Summit_AI_YIR_share.pptx)
+[Slides](slides/AMIA2023_Summit_AI_YIR_share.pdf)
 
 ## 2024 AI and Data Science Year In Review 
 ### Presenters
