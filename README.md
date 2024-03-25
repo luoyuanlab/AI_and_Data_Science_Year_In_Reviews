@@ -1,4 +1,4 @@
-# AI and Data Science Year In Reviews
+# Health Care AI and Data Science Year In Reviews
 
 ## 2023 Inaugural AI and Data Science Year In Review 
 ### Dr. Yuan Luo and Dr. Hongfang Liu 
