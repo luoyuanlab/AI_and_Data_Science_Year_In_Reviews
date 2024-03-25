@@ -6,6 +6,7 @@ This Year In Review, annually presented at the AMIA Informatics Summit, was orig
 ## 2023 Inaugural AI and Data Science Year In Review 
 ### Dr. Yuan Luo and Dr. Hongfang Liu 
 ### 3/16/2023 Seattle
+[slides](slides/AMIA2023_Summit_AI_YIR_share.pptx)
 
 ## 2024 AI and Data Science Year In Review 
 ### Dr. Yuan Luo and Dr. Genevieve Melton-Meaux
