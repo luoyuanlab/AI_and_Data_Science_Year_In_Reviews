@@ -5,6 +5,14 @@ This Year In Review, annually presented at the AMIA Informatics Summit, was orig
 
 ## 2024 AI and Data Science Year In Review 
 ### Presenters
+Dr. Marylyn Ritchie and Dr. Yuan Luo
+### Date and Location
+3/13/2025 Pittsburgh
+### Link
+[Slides](slides/AMIA2025_Summit_AI_YIR_share.pdf)
+
+## 2024 AI and Data Science Year In Review 
+### Presenters
 Dr. Genevieve Melton-Meaux and Dr. Yuan Luo
 ### Date and Location
 3/21/2024 Boston
